@@ -10,6 +10,6 @@ services:
             - key: PORT
         value: 10000
             - key: MONGODB_URI
-        value: REPLACE_WITH_YOUR_MONGODB_URI
+        value: PASTE_YOUR_REAL_MONGODB_URI_FROM_LAST_NIGHT_HERE
             - key: JWT_SECRET
         value: fantasyng-super-secret-2026-prod-key
